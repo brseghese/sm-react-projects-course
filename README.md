@@ -1,6 +1,6 @@
 # React JS <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="30px"/>
 
-## John Smilga - React Tutorial and Projects Course 2022
+## React Tutorial and Projects Course 2022 - John Smilga
 
 [Udemy](https://www.udemy.com/course/react-tutorial-and-projects-course/?referralCode=FEE6A921AF07E2563CEF)🔗
 
@@ -10,7 +10,11 @@
 
 #### **useSate**
 
-1. [Birthday Reminder](https://sm-birthday-reminder.netlify.app/)
+1. [Birthday Reminder](https://sm-birthday-reminder.netlify.app/?target=_blank)
+
+#### **useEffect**
+
+2. [Tours](https://sm-tours.netlify.app/?target=_blank)
 
 ---
 
