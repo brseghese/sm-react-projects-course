@@ -16,10 +16,11 @@
 
 #### **useEffect**
 
-2. [Tours]("https://sm-tours.netlify.app/")
-3. [Reviews]("https://sm-reviews.netlify.app/")
-4. [Accordion]("https://sm-accordion.netlify.app/")
+2. [Tours](https://sm-tours.netlify.app/)
+3. [Reviews](https://sm-reviews.netlify.app/)
+4. [Accordion](https://sm-accordion.netlify.app/)
 5. [Menu](https://sm-menu.netlify.app/)
+6. [Tabs](https://sm-tabs.netlify.app/)
 
 ---
 
