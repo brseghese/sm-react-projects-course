@@ -4,7 +4,7 @@
 
 ## React Tutorial and Projects Course 2022 - John Smilga
 
-[Udemy]("https://www.udemy.com/course/react-tutorial-and-projects-course/?referralCode=FEE6A921AF07E2563CEF")🔗
+[Udemy](https://www.udemy.com/course/react-tutorial-and-projects-course/?referralCode=FEE6A921AF07E2563CEF)🔗
 
 ---
 
@@ -12,7 +12,7 @@
 
 #### **useSate**
 
-1. [Birthday Reminder]("https://sm-birthday-reminder.netlify.app/")
+1. [Birthday Reminder](https://sm-birthday-reminder.netlify.app/)
 
 #### **useEffect**
 
@@ -21,6 +21,7 @@
 4. [Accordion](https://sm-accordion.netlify.app/)
 5. [Menu](https://sm-menu.netlify.app/)
 6. [Tabs](https://sm-tabs.netlify.app/)
+7. [Slider](https://sm-sliders.netlify.app/)
 
 ---
 
