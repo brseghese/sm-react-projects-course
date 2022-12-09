@@ -26,6 +26,7 @@
 #### **form**
 
 8. [Lorem Ipsum](https://sm-lorem-ipsum.netlify.app/)
+9. [Color Generetor](https://sm-color-generator.netlify.app/)
 
 ---
 
