@@ -23,6 +23,10 @@
 6. [Tabs](https://sm-tabs.netlify.app/)
 7. [Slider](https://sm-sliders.netlify.app/)
 
+#### **form**
+
+8. [Lorem Ipsum](https://sm-lorem-ipsum.netlify.app/)
+
 ---
 
 ### 📝 License
